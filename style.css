@@ -1,7 +1,4 @@
-ul {
-    list-style-type: none;
-}
-
-h1 {
-    color: blue;
+box{
+    width: 100px;
+    border-width: 2px;
 }
